@@ -1,0 +1,28 @@
+h1{
+    font-family: roboto;
+    color: red;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+#myCanva{
+    border: solid;
+    color:white;
+    border-style: ridge;
+    border-width: 11px;
+    margin-bottom: 20px;
+}
+input{
+    width: 300px;
+    height:40px;
+    border-radius: 5px;
+}
+span{
+    font-size: 20px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    background-color: lightgreen;
+    border-radius: 20px;
+}
